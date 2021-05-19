@@ -1,0 +1,34 @@
+body{
+    background-image: url(../images/coffeshop.jpg);
+    background-size: cover;
+}
+
+.head{
+    color: black;
+    margin: 100px auto;
+    text-align: center;
+    font-size: 60px;
+    background-color: dimgray;
+    width: 60%;
+    border-radius: 10px;
+}
+
+p{
+    font-size: 30px;
+    margin: -50px auto;
+    text-align: center;
+    background-color: dimgray;
+    width: 50%;
+    color: black;
+    font-family: 'Dancing Script', cursive;
+font-family: 'Lobster', cursive;
+    border-radius: 10px;
+}
+.btn{
+    margin: 150px 490px auto;
+    text-align: center;
+}
+
+.head{
+    font-family: 'Lobster', cursive;
+}
